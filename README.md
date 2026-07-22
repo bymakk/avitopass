@@ -6,7 +6,7 @@
 Даю бота на тест: со всеми отчётами о работае и сопутствующим.
 
 Писать сюда: [@by_mak](https://t.me/by_mak)
-Тест: [@avitopass](https://t.me/avitopass)
+Тест: [@avitopass](https://t.me/avitopassbot)
 ---
 
 ## Сколько поисков на IP
